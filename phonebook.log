@@ -1,0 +1,4 @@
+[21.12.2022 21:43:22 ] [INFO] [main] [<module>: 6] => Start
+[21.12.2022 21:43:25 ] [INFO] [view] [ls_menu: 22] => The user has selected item number 1
+[21.12.2022 21:43:31 ] [INFO] [view] [ls_menu: 26] => The user has selected item number 2
+[21.12.2022 21:43:36 ] [INFO] [view] [ls_menu: 28] => User entered: {search}
